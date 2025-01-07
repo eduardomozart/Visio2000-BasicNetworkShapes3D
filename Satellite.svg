@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1.9685000000"
+   height="1.9685000000"
+   viewBox="0 0 141.7323 141.7323"
+   id="svg23"
+   sodipodi:docname="Satellite.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="48.09965"
+     inkscape:cx="11.694472"
+     inkscape:cy="-3.4927489"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <title
+     id="title1"><![CDATA[Satellite]]></title>
+  <g
+     transform=" scale(1.000000) "
+     id="g23">
+    <g
+       id="Layer1106">
+      <defs
+         id="defs2">
+        <linearGradient
+           id="grad220">
+          <stop
+             offset="0%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop1" />
+          <stop
+             offset="100%"
+             stop-color="#00ff00"
+             stop-opacity="1.0000"
+             id="stop2" />
+        </linearGradient>
+        <linearGradient
+           xlink:href="#grad220"
+           id="grad221"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="1"
+           gradientTransform="rotate(90 .5 .5)"
+           gradientUnits="objectBoundingBox" />
+      </defs>
+      <path
+         d="  M116.2205,63.7795 L104.8819,69.4488 L75.1181,69.4488 L86.4567,63.7795 L116.2205,63.7795 Z"
+         style="stroke-width: 0.2400; stroke-linecap: butt; stroke-linejoin: miter; fill-rule: evenodd; fill: url(#grad221); "
+         id="path2" />
+      <path
+         d="  M116.2205,63.7795 L104.8819,69.4488 L75.1181,69.4488 L86.4567,63.7795 L116.2205,63.7795 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "
+         id="path3" />
+    </g>
+    <defs
+       id="defs4">
+      <radialGradient
+         id="grad222"
+         cx="100.0000%"
+         cy="100.0000%"
+         r="100.0000%">
+        <stop
+           offset="0%"
+           stop-color="#e6e6e6"
+           stop-opacity="1.0000"
+           id="stop3" />
+        <stop
+           offset="100%"
+           stop-color="#9a9a9a"
+           stop-opacity="1.0000"
+           id="stop4" />
+      </radialGradient>
+    </defs>
+    <path
+       d="  M59.5276,82.9221 A11.3386,5.0867 0.0000 0,0 70.8661,88.0088 A11.3386,5.0867 0.0000 0,0 82.2047,82.9221 A11.3386,5.0867 0.0000 0,0 70.8661,77.8354 A11.3386,5.0867 0.0000 0,0 59.5276,82.9221 Z"
+       style="fill-rule: evenodd; fill: url(#grad222); "
+       id="path4" />
+    <g
+       id="Layer1107">
+      <defs
+         id="defs6">
+        <radialGradient
+           id="grad223"
+           cx="100.0000%"
+           cy="100.0000%"
+           r="100.0000%">
+          <stop
+             offset="0%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop5" />
+          <stop
+             offset="100%"
+             stop-color="#e6e6e6"
+             stop-opacity="1.0000"
+             id="stop6" />
+        </radialGradient>
+      </defs>
+      <path
+         d="  M68.1418,48.1307 L73.8111,48.1307 L73.8111,43.0440 A2.9450,2.6424 0.0000 1,0 68.1418,43.0440 L68.1418,48.1307 Z"
+         style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad223); "
+         id="path6" />
+      <path
+         d="  M68.1418,48.1307 L73.8111,48.1307 L73.8111,43.0440 A2.9450,2.6424 0.0000 1,0 68.1418,43.0440 L68.1418,48.1307 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path7" />
+    </g>
+    <g
+       id="Layer1108">
+      <defs
+         id="defs8">
+        <linearGradient
+           id="grad224">
+          <stop
+             offset="0%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop7" />
+          <stop
+             offset="100%"
+             stop-color="#e6e6e6"
+             stop-opacity="1.0000"
+             id="stop8" />
+        </linearGradient>
+        <linearGradient
+           xlink:href="#grad224"
+           id="grad225"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="1"
+           gradientTransform="rotate(90 .5 .5)"
+           gradientUnits="objectBoundingBox" />
+      </defs>
+      <path
+         d="  M65.1969,91.8808 A5.1091,4.5841 0.0000 0,1 70.8661,88.0657 A4.9191,4.4136 0.0000 0,1 76.5354,91.8808 L65.1969,91.8808 Z M59.5276,52.4018 A11.3386,5.0867 0.0000 0,1 70.8661,47.3151 A11.3386,5.0867 0.0000 0,1 82.2047,52.4018 L82.2047,82.9221 A11.3386,5.0867 0.0000 0,0 70.8661,77.8354 A11.3386,5.0867 0.0000 0,0 59.5276,82.9221 L59.5276,52.4018 Z"
+         style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad225); "
+         id="path8" />
+      <path
+         d="  M65.1969,91.8808 A5.1091,4.5841 0.0000 0,1 70.8661,88.0657 A4.9191,4.4136 0.0000 0,1 76.5354,91.8808 L65.1969,91.8808 Z M59.5276,52.4018 A11.3386,5.0867 0.0000 0,1 70.8661,47.3151 A11.3386,5.0867 0.0000 0,1 82.2047,52.4018 L82.2047,82.9221 A11.3386,5.0867 0.0000 0,0 70.8661,77.8354 A11.3386,5.0867 0.0000 0,0 59.5276,82.9221 L59.5276,52.4018 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path9" />
+    </g>
+    <g
+       id="Layer1109">
+      <defs
+         id="defs11">
+        <linearGradient
+           id="grad226">
+          <stop
+             offset="0%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop9" />
+          <stop
+             offset="50%"
+             stop-color="#e6e6e6"
+             stop-opacity="1.0000"
+             id="stop10" />
+          <stop
+             offset="100%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop11" />
+        </linearGradient>
+      </defs>
+      <path
+         d="  M68.0315,83.5579 L68.0315,88.6447 A2.8346,0.6358 0.0000 0,1 70.8661,88.0088 A2.8346,0.6358 0.0000 0,1 73.7008,88.6447 L73.7008,83.5579 A2.8346,0.6358 0.0000 0,0 70.8661,82.9221 A2.8346,0.6358 0.0000 0,0 68.0315,83.5579 Z"
+         style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad226); "
+         id="path11" />
+      <path
+         d="  M68.0315,83.5579 L68.0315,88.6447 A2.8346,0.6358 0.0000 0,1 70.8661,88.0088 A2.8346,0.6358 0.0000 0,1 73.7008,88.6447 L73.7008,83.5579 A2.8346,0.6358 0.0000 0,0 70.8661,82.9221 A2.8346,0.6358 0.0000 0,0 68.0315,83.5579 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path12" />
+    </g>
+    <g
+       id="Layer1110">
+      <defs
+         id="defs13">
+        <radialGradient
+           id="grad227"
+           cx="50.0000%"
+           cy="50.0000%"
+           r="100.0000%">
+          <stop
+             offset="0%"
+             stop-color="#e6e6e6"
+             stop-opacity="1.0000"
+             id="stop12" />
+          <stop
+             offset="100%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop13" />
+        </radialGradient>
+      </defs>
+      <path
+         d="  M65.1969,91.8808 A5.6693,1.2717 0.0000 0,1 76.5354,91.8808 A5.6693,1.2717 0.0000 0,1 65.1969,91.8808 Z"
+         style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad227); "
+         id="path13" />
+      <path
+         d="  M65.1969,91.8808 A5.6693,1.2717 0.0000 0,1 76.5354,91.8808 A5.6693,1.2717 0.0000 0,1 65.1969,91.8808 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path14" />
+    </g>
+    <g
+       id="Layer1111">
+      <path
+         d="  M61.1811,53.8930 L61.1811,56.5234 A11.3386,5.0867 0.0000 0,1 64.0157,55.0913 L64.0157,52.5078 A11.3386,5.0867 0.0000 0,0 61.1811,53.8930 Z M73.2283,64.1649 L73.2283,66.6969 A11.3387,5.0868 0.0000 0,1 76.5945,67.2724 L76.5945,64.7600 A11.3384,5.0866 0.0000 0,0 73.2283,64.1649 Z M63.9567,71.2187 L63.9567,73.8022 A11.3385,5.0867 0.0000 0,1 68.8287,72.8315 L68.8287,70.2787 A11.3385,5.0867 0.0000 0,0 63.9567,71.2187 Z M80.4035,78.8011 L80.4035,76.3458 A11.3386,5.0867 0.0000 0,0 76.4173,74.5502 L76.4173,77.0626 A11.3386,5.0867 0.0000 0,1 80.4035,78.8011 Z"
+         style="stroke-width: 0.1200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #e6e6e6; "
+         id="path15" />
+      <path
+         d="  M61.1811,53.8930 L61.1811,56.5234 A11.3386,5.0867 0.0000 0,1 64.0157,55.0913 L64.0157,52.5078 A11.3386,5.0867 0.0000 0,0 61.1811,53.8930 Z M59.5276,62.5753 A11.3386,5.0867 0.0000 0,1 70.8661,57.4885 A11.3386,5.0867 0.0000 0,1 82.2047,62.5753 M73.2283,64.1649 L73.2283,66.6969 A11.3387,5.0868 0.0000 0,1 76.5945,67.2724 L76.5945,64.7600 A11.3384,5.0866 0.0000 0,0 73.2283,64.1649 Z M63.9567,71.2187 L63.9567,73.8022 A11.3385,5.0867 0.0000 0,1 68.8287,72.8315 L68.8287,70.2787 A11.3385,5.0867 0.0000 0,0 63.9567,71.2187 Z M59.5276,72.7487 A11.3386,5.0867 0.0000 0,1 70.8661,67.6620 A11.3386,5.0867 0.0000 0,1 82.2047,72.7487 M80.4035,78.8011 L80.4035,76.3458 A11.3386,5.0867 0.0000 0,0 76.4173,74.5502 L76.4173,77.0626 A11.3386,5.0867 0.0000 0,1 80.4035,78.8011 Z"
+         style="stroke-width: 0.1200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path16" />
+    </g>
+    <path
+       d="  M70.8661,92.0851 L70.8661,98.4893"
+       style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path17" />
+    <defs
+       id="defs18">
+      <linearGradient
+         id="grad228">
+        <stop
+           offset="0%"
+           stop-color="#ff0000"
+           stop-opacity="1.0000"
+           id="stop17" />
+        <stop
+           offset="100%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop18" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad228"
+         id="grad229"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(135 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M69.0817,100.2683 A1.7844,1.7790 0.0000 0,1 72.6506,100.2683 A1.7844,1.7790 0.0000 1,1 69.0817,100.2683 Z"
+       style="fill-rule: evenodd; fill: url(#grad229); "
+       id="path18" />
+    <g
+       id="Layer1112">
+      <path
+         d="  M73.7008,88.2283 L75.1181,88.2283 L75.1181,84.1938 L73.7008,84.1938 L73.7008,88.2283 Z"
+         style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #9a9a9a; "
+         id="path19" />
+      <path
+         d="  M73.7008,88.2283 L75.1181,88.2283 L75.1181,84.1938 L73.7008,84.1938 L73.7008,88.2283 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path20" />
+    </g>
+    <g
+       id="Layer1113">
+      <defs
+         id="defs21">
+        <linearGradient
+           id="grad230">
+          <stop
+             offset="0%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop20" />
+          <stop
+             offset="100%"
+             stop-color="#00ff00"
+             stop-opacity="1.0000"
+             id="stop21" />
+        </linearGradient>
+        <linearGradient
+           xlink:href="#grad230"
+           id="grad231"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="1"
+           gradientTransform="rotate(90 .5 .5)"
+           gradientUnits="objectBoundingBox" />
+      </defs>
+      <path
+         d="  M66.6142,63.7795 L55.2756,69.4488 L25.5118,69.4488 L36.8504,63.7795 L66.6142,63.7795 Z"
+         style="stroke-width: 0.2400; stroke-linecap: butt; stroke-linejoin: miter; fill-rule: evenodd; fill: url(#grad231); "
+         id="path21" />
+      <path
+         d="  M66.6142,63.7795 L55.2756,69.4488 L25.5118,69.4488 L36.8504,63.7795 L66.6142,63.7795 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; fill: none; "
+         id="path22" />
+    </g>
+    <path
+       d="  M65.4386,91.8688 A8.3243,1.8672 0.0000 0,0 65.1969,91.9173 A5.6693,1.2717 0.0000 0,0 76.5354,91.9173 A8.3243,1.8672 0.0000 0,0 76.2937,91.8688 L76.5354,91.8688 A4.2967,3.8551 6.9022 0,0 73.7008,88.2283 A10.6325,5.3777 177.2744 0,0 82.2021,82.8005 A11.3765,5.7540 0.2924 0,0 82.2047,82.2047 L82.2047,69.4488 L104.8819,69.4488 A229.9898,229.9898 0.0000 0,0 116.2205,63.7795 L86.4567,63.7795 L82.2047,65.9055 L82.2047,52.4409 A11.3434,5.0119 179.2043 0,0 77.4367,48.2443 A11.3386,5.0867 0.0000 0,0 73.4198,47.4338 A3.8758,3.8758 0.0000 0,0 73.7008,47.1260 L73.7008,42.5197 A2.8346,2.8346 0.0000 1,0 68.0315,42.5197 L68.0315,47.4803 A11.2584,5.0507 0.0000 0,0 59.5276,52.3899 L59.5276,63.7795 L36.8504,63.7795 L25.5118,69.4488 L55.2756,69.4488 L59.5276,67.3228 L59.5276,82.9101 L59.5276,83.0020 A10.7490,5.4366 2.7364 0,0 68.3858,88.2283 A4.5556,4.0874 174.7747 0,0 65.1969,91.8688 L65.4386,91.8688 Z"
+       style="stroke-width: 0.7200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path23" />
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

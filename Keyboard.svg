@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1.9685000000"
+   height="1.9685000000"
+   viewBox="0 0 141.7323 141.7323"
+   id="svg11"
+   sodipodi:docname="Keyboard.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.93747"
+     inkscape:cx="-2.6933683"
+     inkscape:cy="1.1214024"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <title
+     id="title1"><![CDATA[Keyboard]]></title>
+  <g
+     transform=" scale(1.000000) "
+     id="g11">
+    <defs
+       id="defs2">
+      <linearGradient
+         id="grad258">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop1" />
+        <stop
+           offset="100%"
+           stop-color="#e6e6e6"
+           stop-opacity="1.0000"
+           id="stop2" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad258"
+         id="grad259"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(180 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M53.8583,65.1969 L99.2126,65.1969 A16.1600,16.1600 0.0000 0,1 93.5433,73.7008 L48.1890,73.7008 A16.1600,16.1600 0.0000 0,0 53.8583,65.1969 Z"
+       style="fill-rule: evenodd; fill: url(#grad259); "
+       id="path2" />
+    <path
+       d="  M93.5433,76.5354 L99.2126,70.8661 L99.2126,65.1969 A16.1600,16.1600 0.0000 0,1 93.5433,73.7008 L93.5433,76.5354 Z"
+       style="fill-rule: evenodd; fill: #9a9a9a; "
+       id="path3" />
+    <path
+       d="  M95.6250,66.2598 L97.2785,66.2598 A1.3174,1.3174 0.0000 0,1 96.9685,66.8799 L95.3150,66.8799 A1.3174,1.3174 0.0000 0,0 95.6250,66.2598 Z"
+       style="fill-rule: evenodd; fill: #00ff00; "
+       id="path4" />
+    <path
+       d="  M93.1447,66.2598 L94.7982,66.2598 A1.3174,1.3174 0.0000 0,1 94.4882,66.8799 L92.8346,66.8799 A1.3174,1.3174 0.0000 0,0 93.1447,66.2598 Z"
+       style="fill-rule: evenodd; fill: #00ff00; "
+       id="path5" />
+    <path
+       d="  M90.4724,66.2598 L92.1260,66.2598 A1.3174,1.3174 0.0000 0,1 91.8159,66.8799 L90.1624,66.8799 A1.3174,1.3174 0.0000 0,0 90.4724,66.2598 Z"
+       style="fill-rule: evenodd; fill: #00ff00; "
+       id="path6" />
+    <g
+       id="Layer1114">
+      <path
+         d="  M93.5433,73.7008 L93.5433,76.5354 L48.1890,76.5354 L48.1890,73.7008 L93.5433,73.7008 Z"
+         style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: #c0c0c0; "
+         id="path7" />
+      <path
+         d="  M93.5433,73.7008 L93.5433,76.5354 L48.1890,76.5354 L48.1890,73.7008 L93.5433,73.7008 Z"
+         style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path8" />
+    </g>
+    <path
+       d="  M48.1890,73.7008 L48.1890,76.5354 L93.5433,76.5354 L99.2126,70.8661 L99.2126,65.1969 L53.8583,65.1969 A16.1600,16.1600 0.0000 0,1 48.1890,73.7008 Z"
+       style="stroke-width: 0.7200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path9" />
+    <g
+       id="Layer1115">
+      <defs
+         id="defs10">
+        <linearGradient
+           id="grad260">
+          <stop
+             offset="0%"
+             stop-color="#9a9a9a"
+             stop-opacity="1.0000"
+             id="stop9" />
+          <stop
+             offset="100%"
+             stop-color="#e6e6e6"
+             stop-opacity="1.0000"
+             id="stop10" />
+        </linearGradient>
+        <linearGradient
+           xlink:href="#grad260"
+           id="grad261"
+           x1="0"
+           y1="0"
+           x2="0"
+           y2="1"
+           gradientTransform="rotate(-0 .5 .5)"
+           gradientUnits="objectBoundingBox" />
+      </defs>
+      <path
+         d="  M56.6929,65.9941 L62.7165,65.9941 A2.2584,2.2584 0.0000 0,1 62.1850,67.0571 L56.1614,67.0571 A2.2584,2.2584 0.0000 0,0 56.6929,65.9941 Z M63.7795,65.9941 L69.8031,65.9941 A2.2584,2.2584 0.0000 0,1 69.2717,67.0571 L63.2480,67.0571 A2.2584,2.2584 0.0000 0,0 63.7795,65.9941 Z M70.9547,65.9941 L76.9783,65.9941 A2.2584,2.2584 0.0000 0,1 76.4469,67.0571 L70.4232,67.0571 A2.2584,2.2584 0.0000 0,0 70.9547,65.9941 Z M78.0413,65.9941 L84.0650,65.9941 A2.2584,2.2584 0.0000 0,1 83.5335,67.0571 L77.5098,67.0571 A2.2584,2.2584 0.0000 0,0 78.0413,65.9941 Z M84.1978,67.5886 L88.7820,67.5886 A3.8038,3.8038 0.0000 0,1 87.6526,69.7146 L83.1127,69.7146 A4.1013,4.1013 0.0000 0,0 84.1978,67.5886 Z M89.9557,67.5886 L96.9094,67.5886 A11.7593,11.7593 10.5889 0,1 92.8789,72.9035 L85.9252,72.9035 A12.8289,12.8289 7.2795 0,0 89.9557,67.5886 Z M82.4262,70.7776 L86.7667,70.7776 A7.8249,7.8249 0.0000 0,1 84.5965,72.9035 L80.0787,72.9035 A6.7519,6.7519 0.0000 0,0 82.4262,70.7776 Z M54.3898,67.5886 L83.1791,67.5886 A11.5808,11.5808 2.8360 0,1 78.8386,72.9035 L73.5236,72.9035 A5.0908,5.0908 7.9435 0,0 74.9409,71.3091 L71.0433,71.3091 A5.0908,5.0908 7.9435 0,1 69.6260,72.9035 L58.9961,72.9035 A5.0908,5.0908 7.9435 0,0 60.4134,71.3091 L56.5157,71.3091 A5.0908,5.0908 7.9435 0,1 55.0984,72.9035 L50.8465,72.9035 A13.1688,13.1688 178.9755 0,0 54.3898,67.5886 Z"
+         style="stroke-width: 0.1200; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad261); "
+         id="path10" />
+      <path
+         d="  M56.6929,65.9941 L62.7165,65.9941 A2.2584,2.2584 0.0000 0,1 62.1850,67.0571 L56.1614,67.0571 A2.2584,2.2584 0.0000 0,0 56.6929,65.9941 Z M63.7795,65.9941 L69.8031,65.9941 A2.2584,2.2584 0.0000 0,1 69.2717,67.0571 L63.2480,67.0571 A2.2584,2.2584 0.0000 0,0 63.7795,65.9941 Z M70.9547,65.9941 L76.9783,65.9941 A2.2584,2.2584 0.0000 0,1 76.4469,67.0571 L70.4232,67.0571 A2.2584,2.2584 0.0000 0,0 70.9547,65.9941 Z M78.0413,65.9941 L84.0650,65.9941 A2.2584,2.2584 0.0000 0,1 83.5335,67.0571 L77.5098,67.0571 A2.2584,2.2584 0.0000 0,0 78.0413,65.9941 Z M84.1978,67.5886 L88.7820,67.5886 A3.8038,3.8038 0.0000 0,1 87.6526,69.7146 L83.1127,69.7146 A4.1013,4.1013 0.0000 0,0 84.1978,67.5886 Z M89.9557,67.5886 L96.9094,67.5886 A11.7593,11.7593 10.5889 0,1 92.8789,72.9035 L85.9252,72.9035 A12.8289,12.8289 7.2795 0,0 89.9557,67.5886 Z M82.4262,70.7776 L86.7667,70.7776 A7.8249,7.8249 0.0000 0,1 84.5965,72.9035 L80.0787,72.9035 A6.7519,6.7519 0.0000 0,0 82.4262,70.7776 Z M54.3898,67.5886 L83.1791,67.5886 A11.5808,11.5808 2.8360 0,1 78.8386,72.9035 L73.5236,72.9035 A5.0908,5.0908 7.9435 0,0 74.9409,71.3091 L71.0433,71.3091 A5.0908,5.0908 7.9435 0,1 69.6260,72.9035 L58.9961,72.9035 A5.0908,5.0908 7.9435 0,0 60.4134,71.3091 L56.5157,71.3091 A5.0908,5.0908 7.9435 0,1 55.0984,72.9035 L50.8465,72.9035 A13.1688,13.1688 178.9755 0,0 54.3898,67.5886 Z"
+         style="stroke-width: 0.1200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+         id="path11" />
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1.9685000000"
+   height="1.9685000000"
+   viewBox="0 0 141.7323 141.7323"
+   id="svg29"
+   sodipodi:docname="Town.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs29" />
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="139.35052"
+     inkscape:cx="-2.0416142"
+     inkscape:cy="-0.76067172"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <title
+     id="title1"><![CDATA[Town]]></title>
+  <g
+     transform=" scale(1.000000) "
+     id="g29">
+    <defs
+       id="defs2">
+      <radialGradient
+         id="grad243"
+         cx="0.0000%"
+         cy="0.0000%"
+         r="100.0000%">
+        <stop
+           offset="0%"
+           stop-color="#0dff86"
+           stop-opacity="1.0000"
+           id="stop1" />
+        <stop
+           offset="100%"
+           stop-color="#00b058"
+           stop-opacity="1.0000"
+           id="stop2" />
+      </radialGradient>
+    </defs>
+    <path
+       d="  M49.6063,79.5030 A21.2598,7.3081 0.0000 1,1 92.1260,79.5030 A21.2598,7.3081 0.0000 0,1 49.6063,79.5030 Z"
+       style="fill-rule: evenodd; fill: url(#grad243); "
+       id="path2" />
+    <path
+       d="  M49.6063,79.5030 A21.2598,7.3081 0.0000 1,1 92.1260,79.5030 A21.2598,7.3081 0.0000 1,1 49.6063,79.5030 Z"
+       style="stroke-width: 0.7200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path3" />
+    <defs
+       id="defs4">
+      <linearGradient
+         id="grad244">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop3" />
+        <stop
+           offset="100%"
+           stop-color="#808000"
+           stop-opacity="1.0000"
+           id="stop4" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad244"
+         id="grad245"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(180 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M76.1811,76.8455 L76.1811,72.8593 L83.4892,72.8593 L83.4892,76.8455 L76.1811,76.8455 Z"
+       style="fill-rule: evenodd; fill: url(#grad245); "
+       id="path4" />
+    <path
+       d="  M83.4892,72.8593 L83.4892,76.8455 L85.4823,74.8524 L85.4823,70.8661 L83.4892,72.8593 Z"
+       style="fill-rule: evenodd; fill: #808000; "
+       id="path5" />
+    <path
+       d="  M83.4892,72.8593 L84.1535,70.2018 L85.4823,70.8661 L83.4892,72.8593 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path6" />
+    <path
+       d="  M84.1535,70.2018 L77.5098,70.2018 L76.1811,72.8593 L83.4892,72.8593 L84.1535,70.2018 Z"
+       style="fill-rule: evenodd; fill: #cdcd9c; "
+       id="path7" />
+    <path
+       d="  M53.5925,78.1742 L53.5925,64.8868 L62.8937,64.8868 L62.8937,78.1742 L53.5925,78.1742 Z"
+       style="fill-rule: evenodd; fill: #c66300; "
+       id="path8" />
+    <path
+       d="  M53.5925,64.8868 L55.5856,62.8937 L64.8868,62.8937 L62.8937,64.8868 L53.5925,64.8868 Z"
+       style="fill-rule: evenodd; fill: #9a9a9a; "
+       id="path9" />
+    <path
+       d="  M62.8937,64.8868 L62.8937,78.1742 L64.8868,76.1811 L64.8868,62.8937 L62.8937,64.8868 Z"
+       style="fill-rule: evenodd; fill: #800000; "
+       id="path10" />
+    <defs
+       id="defs11">
+      <linearGradient
+         id="grad246">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop10" />
+        <stop
+           offset="100%"
+           stop-color="#e6e6e6"
+           stop-opacity="1.0000"
+           id="stop11" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad246"
+         id="grad247"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(90 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M64.8868,72.8593 L66.8799,70.8661 L81.4961,70.8661 L79.5030,72.8593 L64.8868,72.8593 Z"
+       style="fill-rule: evenodd; fill: url(#grad247); "
+       id="path11" />
+    <defs
+       id="defs13">
+      <linearGradient
+         id="grad248">
+        <stop
+           offset="0%"
+           stop-color="#cdcdcd"
+           stop-opacity="1.0000"
+           id="stop12" />
+        <stop
+           offset="100%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop13" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad248"
+         id="grad249"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(135 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M75.5167,64.2224 L78.1742,54.9213 L79.5030,64.2224 L75.5167,64.2224 Z"
+       style="fill-rule: evenodd; fill: url(#grad249); "
+       id="path13" />
+    <path
+       d="  M79.5030,64.2224 L78.1742,54.9213 L81.4961,62.2293 L79.5030,64.2224 Z"
+       style="fill-rule: evenodd; fill: #9a9a9a; "
+       id="path14" />
+    <defs
+       id="defs15">
+      <linearGradient
+         id="grad250">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop14" />
+        <stop
+           offset="100%"
+           stop-color="#c0c0c0"
+           stop-opacity="1.0000"
+           id="stop15" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad250"
+         id="grad251"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(180 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M75.5167,84.1535 L75.5167,80.1673 L82.8248,80.1673 L82.8248,84.1535 L75.5167,84.1535 Z"
+       style="fill-rule: evenodd; fill: url(#grad251); "
+       id="path15" />
+    <path
+       d="  M82.8248,80.1673 L82.8248,84.1535 L84.8179,82.1604 L84.8179,78.1742 L82.8248,80.1673 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path16" />
+    <path
+       d="  M82.8248,80.1673 L83.4892,77.5098 L84.8179,78.1742 L82.8248,80.1673 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path17" />
+    <defs
+       id="defs18">
+      <linearGradient
+         id="grad252">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop17" />
+        <stop
+           offset="100%"
+           stop-color="#c0c0c0"
+           stop-opacity="1.0000"
+           id="stop18" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad252"
+         id="grad253"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(180 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M52.2638,82.8248 L52.2638,78.8386 L59.5719,78.8386 L59.5719,82.8248 L52.2638,82.8248 Z"
+       style="fill-rule: evenodd; fill: url(#grad253); "
+       id="path18" />
+    <path
+       d="  M59.5719,78.8386 L59.5719,82.8248 L61.5650,80.8317 L61.5650,76.8455 L59.5719,78.8386 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path19" />
+    <path
+       d="  M59.5719,78.8386 L60.2362,76.1811 L61.5650,76.8455 L59.5719,78.8386 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path20" />
+    <path
+       d="  M60.2362,76.1811 L53.5925,76.1811 L52.2638,78.8386 L59.5719,78.8386 L60.2362,76.1811 Z"
+       style="fill-rule: evenodd; fill: #cdcd9c; "
+       id="path21" />
+    <defs
+       id="defs22">
+      <linearGradient
+         id="grad254">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop21" />
+        <stop
+           offset="100%"
+           stop-color="#8a8aff"
+           stop-opacity="1.0000"
+           id="stop22" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad254"
+         id="grad255"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(180 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M63.5581,85.4823 L63.5581,81.4961 L70.8661,81.4961 L70.8661,85.4823 L63.5581,85.4823 Z"
+       style="fill-rule: evenodd; fill: url(#grad255); "
+       id="path22" />
+    <path
+       d="  M70.8661,81.4961 L70.8661,85.4823 L72.8593,83.4892 L72.8593,79.5030 L70.8661,81.4961 Z"
+       style="fill-rule: evenodd; fill: #8a8aff; "
+       id="path23" />
+    <defs
+       id="defs24">
+      <linearGradient
+         id="grad256">
+        <stop
+           offset="0%"
+           stop-color="#ffffff"
+           stop-opacity="1.0000"
+           id="stop23" />
+        <stop
+           offset="100%"
+           stop-color="#cdcdcd"
+           stop-opacity="1.0000"
+           id="stop24" />
+      </linearGradient>
+      <linearGradient
+         xlink:href="#grad256"
+         id="grad257"
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="1"
+         gradientTransform="rotate(315 .5 .5)"
+         gradientUnits="objectBoundingBox" />
+    </defs>
+    <path
+       d="  M79.5030,73.5077 L79.5030,72.8593 L79.5030,64.2224 L75.5167,64.2224 L75.5167,72.8593 L64.8868,72.8593 L64.8868,79.5030 L79.5030,79.5030 L79.5030,73.5077 Z"
+       style="fill-rule: evenodd; fill: url(#grad257); "
+       id="path24" />
+    <path
+       d="  M71.5305,78.8386 L64.8868,78.8386 L63.5581,81.4961 L70.8661,81.4961 L71.5305,78.8386 Z"
+       style="fill-rule: evenodd; fill: #cdcd9c; "
+       id="path25" />
+    <path
+       d="  M70.8661,81.4961 L71.5305,78.8386 L72.8593,79.5030 L70.8661,81.4961 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path26" />
+    <path
+       d="  M81.4961,70.8661 L81.4961,62.2293 L79.5030,64.2224 L79.5030,72.8593 L79.5030,79.5030 L81.4961,77.5098 L81.4961,70.8661 Z"
+       style="fill-rule: evenodd; fill: #9a9a9a; "
+       id="path27" />
+    <path
+       d="  M83.4892,77.5098 L76.8455,77.5098 L75.5167,80.1673 L82.8248,80.1673 L83.4892,77.5098 Z"
+       style="fill-rule: evenodd; fill: #cdcd9c; "
+       id="path28" />
+    <path
+       d="  M53.5925,75.5167 L53.5925,64.8868 L55.5856,62.8937 L64.8868,62.8937 L64.8868,72.1949 L65.5512,72.1949 L66.8799,70.8661 L75.5167,70.8661 L75.5167,64.2224 L78.1742,54.9213 L81.4961,62.2293 L81.4961,70.2018 L84.1535,70.2018 L85.4823,70.8661 L85.4823,74.1880"
+       style="stroke-width: 0.7200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path29" />
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="3.9370000000"
+   height="3.9370000000"
+   viewBox="0 0 283.4646 283.4646"
+   id="svg3"
+   sodipodi:docname="Color_box.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="185.81707"
+     inkscape:cx="1.3427184"
+     inkscape:cy="1.0924723"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" />
+  <title
+     id="title1"><![CDATA[Color box]]></title>
+  <g
+     transform=" scale(1.000000) "
+     id="g3">
+    <path
+       d="  M120.4724,120.4724 L162.9921,120.4724 L168.6614,114.8031 L126.1417,114.8031 L120.4724,120.4724 Z"
+       style="fill-rule: evenodd; fill: #d5d5ff; "
+       id="path1" />
+    <path
+       d="  M168.6614,157.3228 L162.9921,162.9921 L162.9921,120.4724 L168.6614,114.8031 L168.6614,157.3228 Z"
+       style="fill-rule: evenodd; fill: #6161c9; "
+       id="path2" />
+    <g
+       id="Layer1155">
+      <path
+         d="  M120.4724,162.9921 L162.9921,162.9921 L162.9921,120.4724 L120.4724,120.4724 L120.4724,162.9921 Z"
+         style="fill-rule: evenodd; fill: #8080ff; "
+         id="path3" />
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

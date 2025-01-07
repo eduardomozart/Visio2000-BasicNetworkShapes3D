@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1.9685000000" height="1.9685000000" viewBox="0 0 141.7323 141.7323">
+  <title><![CDATA[Comm-link]]></title>
+  <g transform=" scale(1.000000) ">
+    <g xmlns="http://www.w3.org/2000/svg" id="Layer1046">
+      <defs>
+        <linearGradient id="grad88">
+          <stop offset="0%" stop-color="#ffffff" stop-opacity="1.0000"/>
+          <stop offset="50%" stop-color="#ffff00" stop-opacity="1.0000"/>
+          <stop offset="100%" stop-color="#ffffff" stop-opacity="1.0000"/>
+        </linearGradient>
+      </defs>
+      <path d="  M27.7795,56.3969 L82.2047,45.0583 L73.7008,60.9323 L113.9528,56.3969 L59.5276,67.7354 L68.0315,51.8614 L27.7795,56.3969 Z" style="stroke-width: 0.2400; stroke-linecap: round; stroke-linejoin: round; fill-rule: evenodd; fill: url(#grad88); "/>
+      <path d="  M27.7795,56.3969 L82.2047,45.0583 L73.7008,60.9323 L113.9528,56.3969 L59.5276,67.7354 L68.0315,51.8614 L27.7795,56.3969 Z" style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "/>
+    </g>
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>

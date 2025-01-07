@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1.9685000000"
+   height="1.9685000000"
+   viewBox="0 0 141.7323 141.7323"
+   id="svg10"
+   sodipodi:docname="Modem.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.222247"
+     inkscape:cx="8.2787768"
+     inkscape:cy="0.18284415"
+     inkscape:window-width="2560"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title1"><![CDATA[Modem]]></title>
+  <g
+     transform=" scale(1.000000) "
+     id="g10">
+    <path
+       d="  M59.5276,70.8661 L80.7874,70.8661 L82.2047,68.0315 L60.9449,68.0315 L59.5276,70.8661 Z"
+       style="fill-rule: evenodd; fill: #e6e6e6; "
+       id="path1" />
+    <path
+       d="  M60.9449,73.7008 L82.2047,73.7008 L80.7874,70.8661 L59.5276,70.8661 L60.9449,73.7008 Z"
+       style="fill-rule: evenodd; fill: #c0c0c0; "
+       id="path2" />
+    <path
+       d="  M82.2047,68.0315 L87.8740,62.3622 L66.6142,62.3622 L60.9449,68.0315 L82.2047,68.0315 Z"
+       style="fill-rule: evenodd; fill: #e6e6e6; "
+       id="path3" />
+    <path
+       d="  M82.2047,68.0315 L80.7874,70.8661 L82.2047,73.7008 L87.8740,68.0315 L87.8740,62.3622 L82.2047,68.0315 Z"
+       style="fill-rule: evenodd; fill: #9a9a9a; "
+       id="path4" />
+    <path
+       d="  M63.3543,70.8661 L64.2047,69.4488 L78.3780,69.4488 L77.5276,70.8661 L63.3543,70.8661 Z"
+       style="fill-rule: evenodd; fill: #00d0d0; "
+       id="path5" />
+    <path
+       d="  M77.5276,70.8661 L78.3780,72.2835 L64.2047,72.2835 L63.3543,70.8661 L77.5276,70.8661 Z"
+       style="fill-rule: evenodd; fill: #008080; "
+       id="path6" />
+    <path
+       d="  M60.9449,68.0315 L59.5276,70.8661 L60.9449,73.7008 L82.2047,73.7008 L80.7874,70.8661 L82.2047,68.0315 L60.9449,68.0315 Z"
+       style="stroke-width: 0.2400; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path7" />
+    <path
+       d="  M60.9449,73.7008 L59.5276,70.8661 L60.9449,68.0315 L66.6142,62.3622 L87.8740,62.3622 L87.8740,68.0315 L82.2047,73.7008 L60.9449,73.7008 Z"
+       style="stroke-width: 0.7200; stroke: #000000; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; fill: none; "
+       id="path8" />
+    <path
+       d="  M66.3661,70.5936 L66.8976,69.7214 L68.3150,69.7214 L67.7835,70.5936 L66.3661,70.5936 Z M68.6693,70.5936 L69.2008,69.7214 L70.6181,69.7214 L70.0866,70.5936 L68.6693,70.5936 Z M73.2756,70.5936 L73.8071,69.7214 L75.2244,69.7214 L74.6929,70.5936 L73.2756,70.5936 Z"
+       style="fill-rule: evenodd; fill: #ff0000; "
+       id="path9" />
+    <path
+       d="  M64.0630,70.5936 L64.5945,69.7214 L66.0118,69.7214 L65.4803,70.5936 L64.0630,70.5936 Z M70.9724,70.5936 L71.5039,69.7214 L72.9213,69.7214 L72.3898,70.5936 L70.9724,70.5936 Z M75.5787,70.5936 L76.1102,69.7214 L77.5276,69.7214 L76.9961,70.5936 L75.5787,70.5936 Z"
+       style="fill-rule: evenodd; fill: #00ff00; "
+       id="path10" />
+    <!--converted by libvisio2svg-->
+  </g>
+</svg>
