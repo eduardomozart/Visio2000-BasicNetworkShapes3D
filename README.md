@@ -9,11 +9,10 @@
 
 ### Network Diagram
 
-![Basic Usage - Certificate Authority](https://www.plantuml.com/plantuml/png/nPDFRzD04CNl-occLM-8s4tXOeMeRNeCLKMWGi883TvfCifwrjgT9VnHlpiRsmV-5C41mi7h9-_p_6RUskTHCMXgdObRbWu3jc3f3fFJb_HHBnolfILHQF92mPYZlCj2SCkH_NHxJGeRrIvMHH5mDrcpRjBx52aqNfH49url2x89W_Mj_vnXnV1gMPQFBp5oaqliVDYkDjXHFBigMcGnHooDI_PRJj7bDeiLXGyK9dlzQzCDXUW5tRiCxvB-rh_4JdqtcCmiwYT7SoCxoxY-ojS-b2y68FRiNW9SOhDT1v_4Bhpp0SGBzHjB5lhXKLxkpRsP5MFfiNPVwIwMf_36Kcm2TyfUu1aSpruzAijfEVzlzvCXvtajUy7MXmfMBsxBqrfkC2h2Fja9LB2ewkSe2JdMii2MPUChgEl1E-uSlpK6G8PpXkN5zHZXCFme6ySa-b0M9pyTPsuB5hsVilhJeLvNkP7lODC7OCEtyBS8PuSSvyaXOK__CMpuPSv9R6hTLm00)
+![Basic Usage - Network Diagram](https://www.plantuml.com/plantuml/png/nLDTJy8m57tlhxWItenh0NrPa23mY8H892REcBeMrh3TBcqdKSD_j_juy0EZ3ufBjfsiP-VSUtfBXjPnuuei9UH8o9L22KjbbUvkPj91ubnkGqeDtmPhvPBYeR3In1gTH1V4EgDI5Dm8dUbdBqFhNnbZ9oDkLUmbjjfi5WdFfUrDQCOLaYE5SLg8jpuqzmNGXJIFqWGb_feqbyPgvEczDyyBzor_odEdyvf4-jOzfN90S2iKNq_yRNW6BmJ0LjuL11ZnUBCska0nrgasW1fbjJ3ryNpuv1yxiYDzsaWtsfNIoh8Et0ffOwDofpJ2ERJwryUCTTdWtzxjEkT1X2LGGfiG5bTBrebmplqqG9bi026Cm-YIOy6LZN3CCuM93Y7oLyrkrbftnBUAzKx3z6BMX5Ytty0uLNvWzgNH_hIXlZ0OLtpfqK_RkWbz8U_CkdlCwcduBOVU8TivFQJPsP-RbOTcA56Kv_8L)
 
 ```csharp
 @startuml
-skinparam defaultTextAlignment center
 
 !define Visio2kNet https://raw.githubusercontent.com/eduardomozart/Visio2000-BasicNetworkShapes3D/main
 !include Visio2kNet/puml/Server.puml
@@ -31,7 +30,7 @@ nwdiagDiagram {
 </style>
 
 nwdiag {
-  fs01 [description = "<U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><$Server>\nServidor: SRV01\nPasta comp. : C:\Manuais\nCaminho: \\SRV01\Manuais"]
+  fs01 [description = "<U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><U+0020><$Server>\nServidor: SRV01\nPasta comp. : C:\Manuais\nCaminho: \\\\SRV01\Manuais"]
 
   network LAN {
       fs01
